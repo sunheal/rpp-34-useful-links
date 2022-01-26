@@ -2,9 +2,9 @@
   "name": "rpp-34-useful-links",
 	"displayName": "RPP 34 Useful Links",
 	"publisher": "sunheal",
-	"description": "Usful Links for RPP 34",
+	"description": "Useful Links for RPP 34",
 	"icon": "logo/rpp34logo.png",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
